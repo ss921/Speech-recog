@@ -1,0 +1,4 @@
+DATASET LINK:
+http://www.openslr.org/12#:~:text=LibriSpeech%20is%20a%20corpus%20of,been%20carefully%20segmented%20and%20aligned.
+
+Saved .pkl and .npy files are not uploaded here as their size is greater than 6GB
